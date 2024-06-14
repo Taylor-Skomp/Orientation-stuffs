@@ -9,7 +9,3 @@ The original repository for the technical orientation can be found [here](https:
 [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 [markdown syntax guide](https://www.markdownguide.org/basic-syntax/)
-
-## Test
-
-This is a test string.
