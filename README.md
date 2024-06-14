@@ -6,8 +6,9 @@ This is a collection of resources obtained during the UVa masters in data scienc
 ## Links
 The original repository for the technical orientation can be found [here](https://github.com/UVADS/orientation-technical)
 
-[git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+A cheat sheet for git created by github can be found[here](https://education.github.com/git-cheat-sheet-education.pdf)
 
-[markdown syntax guide](https://www.markdownguide.org/basic-syntax/)
+A beginer's guide to the syntax of markdown can be found[here](https://www.markdownguide.org/basic-syntax/)
 
-[Codebooks I have created](https://drive.google.com/drive/folders/11vpI7qrJpHxxtgemN7RrPcu9HO-85J4T)
+A folder of all of the codebooks I have created can be found[here](https://drive.google.com/drive/folders/11vpI7qrJpHxxtgemN7RrPcu9HO-85J4T)
+
