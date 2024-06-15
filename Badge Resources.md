@@ -1,3 +1,10 @@
+
+## VS Code/ Conda
+
+stack overflow post explaining how to properly get conda to play nice with bash [here](https://realpython.com/python-operators-expressions/).
+
+There is currently a bug with conda init and conda activate not working with shells like bash. As a workaround use source activate environment_name
+
 ## Python
 
 Numpy.arange documentation [here](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)
