@@ -12,3 +12,5 @@ A beginer's guide to the syntax of markdown can be found [here](https://www.mark
 
 A folder of all of the codebooks I have created can be found [here](https://drive.google.com/drive/folders/11vpI7qrJpHxxtgemN7RrPcu9HO-85J4T).
 
+A beginner's guide to Python operators can be found [here](https://realpython.com/python-operators-expressions/)
+
