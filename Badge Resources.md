@@ -1,7 +1,7 @@
 
 ## VS Code/ Conda
 
-stack overflow post explaining how to properly get conda to play nice with bash [here](https://realpython.com/python-operators-expressions/).
+stack overflow post explaining how to properly get conda to play nice with bash [here](https://stackoverflow.com/questions/44597662/conda-command-is-not-recognized-on-windows-10?answertab=scoredesc#tab-top).
 
 There is currently a bug with conda init and conda activate not working with shells like bash. As a workaround use source activate environment_name
 
